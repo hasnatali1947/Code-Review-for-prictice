@@ -22,7 +22,7 @@
 
 # 📖 [Awesome Book Project] <a name="about-project"></a>
 
-> Discover an amazing collection of books on our website! Easily store your favorite reads with author names and enjoy seamless access to a vast library of literature. Get started now!
+> Discover an amazing collection of books on our website! Easily store your favorite reads with author names and enjoy seamless access to a vast library of literature. Get started now !
 
 ## 🛠️ Built With <a name="built-with"></a>
 
